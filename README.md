@@ -13,7 +13,7 @@ This AI Agent uses **IBM Watsonx** and **Retrieval-Augmented Generation (RAG)** 
 - 📓 Jupyter Notebook
 - 📊 RAG (Retrieval-Augmented Generation)
 
-## ⚙ How It Works
+# ⚙ How It Works
 1. Upload your CV, research papers, and  certificates.
 2. AI Agent extracts & structures key details.
 3. Generates a formatted digital profile instantly.
