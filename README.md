@@ -1,6 +1,6 @@
 ### 📄 Faculty Profile Builder Agent – IBM Watsonx  
 **Smart AI-powered tool to automate faculty digital profile creation using IBM Cloud & Watsonx.**
-![Project Banner]()  
+![Project Banner](images/banner.png)  
 
 #### 📌 About the Project
 Faculty members often struggle with maintaining updated, accurate, and well-formatted academic profiles.  
