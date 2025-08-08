@@ -3,7 +3,6 @@
 <p align="center">
   <img src="images/placeholder7.png" width="50%">
 </p>
-![Project Banner](images/placeholder7.png)  
 
 #### 📌 About the Project
 Faculty members often struggle with maintaining updated, accurate, and well-formatted academic profiles.  
