@@ -41,23 +41,23 @@ Below are sample generated faculty profiles created by the AI Agent:
 
 <p align="center">
   <figure>
-    <img src="images/Output_1.png" width="45%">
-    <figcaption align="center"><b>Profile Overview</b></figcaption>
+    <img src="images/Output_1.png" width="50%">
+    <figcaption align="center"><b>Image_1</b></figcaption>
   </figure>
   <figure>
-    <img src="images/Output_2.png" width="45%">
-    <figcaption align="center"><b>Education & Work Experience</b></figcaption>
+    <img src="images/Output_2.png" width="50%">
+    <figcaption align="center"><b>Image_2</b></figcaption>
   </figure>
 </p>
 
 <p align="center">
   <figure>
-    <img src="images/Output_3.png" width="45%">
-    <figcaption align="center"><b>Projects & Skills</b></figcaption>
+    <img src="images/Output_3.png" width="50%">
+    <figcaption align="center"><b>Image_3</b></figcaption>
   </figure>
   <figure>
-    <img src="images/Output_4.png" width="45%">
-    <figcaption align="center"><b>Certifications</b></figcaption>
+    <img src="images/Output_4.png" width="50%">
+    <figcaption align="center"><b>Image_4</b></figcaption>
   </figure>
 </p>
 
