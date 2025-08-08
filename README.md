@@ -25,8 +25,6 @@ This AI Agent uses **IBM Watsonx** and **Retrieval-Augmented Generation (RAG)** 
 
 ## 📸 Example Output
 
-<h4 align="center">Example Output</h4>
-
 <div align="center">
   <div style="display: inline-block; margin: 10px;">
     <img src="images/Output_1.png" width="45%">
