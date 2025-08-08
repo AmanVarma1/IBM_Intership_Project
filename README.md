@@ -25,62 +25,26 @@ This AI Agent uses **IBM Watsonx** and **Retrieval-Augmented Generation (RAG)** 
 
 ## 📸 Example Output
 
-Below are sample generated faculty profiles created by the AI Agent:
-
-<h3 align="center">Example Output</h3>
-<p align="center">
-  <img src="images/Output_1.png" width="40%">
-  <img src="images/Output_2.png" width="40%">
-</p>
-<p align="center">
-  <img src="images/Output_3.png" width="40%">
-  <img src="images/Output_4.png" width="40%">
-</p>
-
-<h3 align="center">Example Output</h3>
-
-<p align="center">
-  <figure>
-    <img src="images/Output_1.png" width="50%">
-    <figcaption align="center"><b>Image_1</b></figcaption>
-  </figure>
-  <figure>
-    <img src="images/Output_2.png" width="50%">
-    <figcaption align="center"><b>Image_2</b></figcaption>
-  </figure>
-</p>
-
-<p align="center">
-  <figure>
-    <img src="images/Output_3.png" width="50%">
-    <figcaption align="center"><b>Image_3</b></figcaption>
-  </figure>
-  <figure>
-    <img src="images/Output_4.png" width="50%">
-    <figcaption align="center"><b>Image_4</b></figcaption>
-  </figure>
-</p>
-
-<h3 align="center">Example Output</h3>
+<h4 align="center">Example Output</h4>
 
 <div align="center">
   <div style="display: inline-block; margin: 10px;">
     <img src="images/Output_1.png" width="45%">
-    <div><b>Profile Overview</b></div>
+    <div><b>Image_1</b></div>
   </div>
   <div style="display: inline-block; margin: 10px;">
     <img src="images/Output_2.png" width="45%">
-    <div><b>Education & Work Experience</b></div>
+    <div><b>Image_2</b></div>
   </div>
 </div>
 
 <div align="center">
   <div style="display: inline-block; margin: 10px;">
     <img src="images/Output_3.png" width="45%">
-    <div><b>Projects & Skills</b></div>
+    <div><b>Image_3</b></div>
   </div>
   <div style="display: inline-block; margin: 10px;">
     <img src="images/Output_4.png" width="45%">
-    <div><b>Certifications</b></div>
+    <div><b>Image_4</b></div>
   </div>
 </div>
