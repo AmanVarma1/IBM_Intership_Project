@@ -21,4 +21,7 @@ This AI Agent uses **IBM Watsonx** and **Retrieval-Augmented Generation (RAG)** 
 
 #### 📷 Example Output
 Below is a sample generated profile:
-![Sample Profile Screenshot](https://via.placeholder.com/800x400?text=Generated+Profile+Example)
+![Project Output Screenshot](images/Output_1.png)
+![Project Output Screenshot](images/Output_2.png)
+![Project Output Screenshot](images/Output_3.png)
+![Project Output Screenshot](images/Output_4.png)
