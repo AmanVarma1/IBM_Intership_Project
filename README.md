@@ -19,24 +19,17 @@ This AI Agent uses **IBM Watsonx** and **Retrieval-Augmented Generation (RAG)** 
 3. Generates a formatted digital profile instantly.
 4. Ready for accreditation, promotion, and collaborations.
 
-#### 📷 Example Output
-Below is a sample generated profile:
-![Project Output Screenshot](images/Output_1.png)
-![Project Output Screenshot](images/Output_2.png)
-![Project Output Screenshot](images/Output_3.png)
-![Project Output Screenshot](images/Output_4.png)
-
 
 ## 📸 Example Output
 
 Below are sample generated faculty profiles created by the AI Agent:
 
 <p align="center">
-  <img src="images/output_1.png" width="45%">
-  <img src="images/output_2.png" width="45%">
+  <img src="images/output_1.png" width="40%">
+  <img src="images/output_2.png" width="40%">
 </p>
 <p align="center">
-  <img src="images/Output_3.png" width="45%">
-  <img src="images/Output_4.png" width="45%">
+  <img src="images/Output_3.png" width="40%">
+  <img src="images/Output_4.png" width="40%">
 </p>
 
