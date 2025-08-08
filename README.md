@@ -27,6 +27,7 @@ This AI Agent uses **IBM Watsonx** and **Retrieval-Augmented Generation (RAG)** 
 
 Below are sample generated faculty profiles created by the AI Agent:
 
+<h3 align="center">Example Output</h3>
 <p align="center">
   <img src="images/Output_1.png" width="40%">
   <img src="images/Output_2.png" width="40%">
