@@ -23,7 +23,7 @@ This AI Agent uses **IBM Watsonx** and **Retrieval-Augmented Generation (RAG)** 
 4. Ready for accreditation, promotion, and collaborations.
 
 
-## 📸 Example Output
+## 📸 Generated Output
 
 <div align="center">
   <div style="display: inline-block; margin: 10px;">
