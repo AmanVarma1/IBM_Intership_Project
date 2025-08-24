@@ -3,10 +3,11 @@
 Problem Statement No.30 - Faculty Digital Profile Builder (RAG-Based)
 The Challenge – Faculty members across higher education institutions are often required to maintain comprehensive academic profiles for accreditation (e.g., NAAC, NBA), research collaboration, promotions, and visibility. However, manually compiling, updating, and formatting data related to qualifications, publications, FDPs, patents, grants, and achievements is time-consuming, error-prone, and inconsistent
 
-**Smart AI-powered tool to automate faculty digital profile creation using IBM Cloud & Watsonx.**
+
 <p align="center">
   <img src="images/placeholder7.png" width="50%">
 </p>
+**Smart AI-powered tool to automate faculty digital profile creation using IBM Cloud & Watsonx.**
 
 #### 📌 About the Project
 Faculty members often struggle with maintaining updated, accurate, and well-formatted academic profiles.  
