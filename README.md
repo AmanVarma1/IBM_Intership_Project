@@ -7,7 +7,7 @@ The Challenge – Faculty members across higher education institutions are often
 <p align="center">
   <img src="images/placeholder7.png" width="50%">
 </p>
-**Smart AI-powered tool to automate faculty digital profile creation using IBM Cloud & Watsonx.
+##Smart AI-powered tool to automate faculty digital profile creation using IBM Cloud & Watsonx.
 
 #### 📌 About the Project
 Faculty members often struggle with maintaining updated, accurate, and well-formatted academic profiles.  
