@@ -1,7 +1,9 @@
 ### 📄 Faculty Profile Builder Agent – IBM Watsonx  
 
-Problem Statement No.30 - Faculty Digital Profile Builder (RAG-Based)
-The Challenge – Faculty members across higher education institutions are often required to maintain comprehensive academic profiles for accreditation (e.g., NAAC, NBA), research collaboration, promotions, and visibility. However, manually compiling, updating, and formatting data related to qualifications, publications, FDPs, patents, grants, and achievements is time-consuming, error-prone, and inconsistent
+Problem Statement- Faculty Digital Profile Builder (RAG-Based)
+Faculty members across higher education institutions are often required to maintain comprehensive academic profiles for accreditation (e.g., NAAC, NBA), research collaboration, promotions, and visibility. However, manually compiling, updating, and formatting data related to qualifications, publications, FDPs, patents, grants, and achievements is time-consuming, error-prone, and inconsistent.Moreover, most institutions lack a standardized and intelligent system to generate and update faculty profiles dynamically from scattered sources like CVs, research repositories, certificates, and spreadsheets.
+There is a need for a smart, automated, and user-friendly solution that can create and maintain rich, accurate digital profiles for faculty with minimal manual effort.
+Technology – Use of IBM Cloud Lite services / IBM Granite is mandatory.
 
 
 <p align="center">
